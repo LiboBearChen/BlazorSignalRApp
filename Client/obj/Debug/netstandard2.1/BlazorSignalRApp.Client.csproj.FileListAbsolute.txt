@@ -1,0 +1,1 @@
+C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\BlazorSignalRApp.Client.csprojAssemblyReference.cache
