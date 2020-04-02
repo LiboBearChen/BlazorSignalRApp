@@ -5,3 +5,5 @@ C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSig
 C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.AssemblyInfo.cs
 C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.dll
 C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.pdb
+C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csprojAssemblyReference.cache
+C:\Users\Libo\Desktop\BlazorSignalRApp\Shared\obj\Debug\netstandard2.1\BlazorSignalRApp.Shared.csproj.CoreCompileInputs.cache
