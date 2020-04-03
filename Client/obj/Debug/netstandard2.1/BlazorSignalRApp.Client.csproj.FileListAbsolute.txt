@@ -355,3 +355,7 @@ C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\staticweb
 C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorSignalRApp.Client.StaticWebAssets.xml
 C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\BlazorSignalRApp.Client.dll
 C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\BlazorSignalRApp.Client.pdb
+C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Text.razor.g.cs
+C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Text.razor.g.cs
+C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Text.cshtml.g.cs
+C:\Users\Libo\Desktop\BlazorSignalRApp\Client\obj\Debug\netstandard2.1\BlazorSignalRApp.Client.RazorTargetAssemblyInfo.cs
